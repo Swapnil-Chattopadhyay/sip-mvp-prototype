@@ -1,0 +1,6 @@
+# Continuity MVP — Checksums
+# Generated: 2026-11-08T11:52:34Z
+# Artifact:  1794137102-c936
+
+SHA-256  index.html
+c21ae89d2bf1ae580a0fa98b0947c7a841af606e42105c324e03ed0153cfd69d  index.html
